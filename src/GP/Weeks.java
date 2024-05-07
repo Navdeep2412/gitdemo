@@ -6,6 +6,7 @@ public class Weeks {
 		int[] week= {1,2,3,4};
 		System.out.println(week[1]);
 		System.out.println(week[2]);
+		System.out.println(week[3]);
 
 	}
 
